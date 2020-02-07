@@ -8,7 +8,7 @@
     "watch": "postcss css/tailwind.css -o public/build/tailwind.css --watch"
   },
   "keywords": [],
-  "author": "",
+  "author": "optimizasean",
   "license": "ISC",
   "dependencies": {
     "autoprefixer": "^9.6.5",
